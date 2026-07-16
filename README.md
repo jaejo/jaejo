@@ -40,3 +40,11 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=본인의_GitHub_ID&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인의_GitHub_ID&layout=compact&theme=github_dark" alt="Top Langs" />
+</p>
+
