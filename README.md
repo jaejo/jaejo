@@ -1,6 +1,5 @@
 ## 이재준(JAE JOON, LEE)
-
-## 현상의 원인을 집요하게 추적하며 시스템의 안정성을 증명하는 백엔드 개발자
+- **현상의 원인을 집요하게 추적하며 시스템의 안정성을 증명하는 백엔드 개발자**
 
 ### 🛠️ 기술 스택(Tech Stacks)
 
@@ -43,4 +42,16 @@
 ### 📈 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jaejo&show_icons=true&theme=github_dark&count_private=true)](https://github.com/jaejo) [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaejo&layout=compact&theme=github_dark)](https://github.com/jaejo)
+
+### 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaejo&theme=flat&column=7" alt="GitHub Trophies" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaejo&theme=dark" alt="GitHub Streak" />
+</p>
 
