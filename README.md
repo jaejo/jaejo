@@ -1,12 +1,12 @@
-# 👋 Hello, World!
+# 👋 안녕하세요, 백엔드 개발자 이재준입니다.
 
-```java
-public class BackendDeveloper {
-    private final String name = "이재준";
-    private final String role = "Backend Engineer";
-    private final String philosophy = "현상의 원인을 집요하게 추적하고, 시스템의 안정성을 코드로 증명합니다.";
-}
-```
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=6DB33F&width=500&lines=%ED%98%84%EC%83%81%EC%9D%98+%EC%9B%90%EC%9D%B8%EC%9D%84+%EC%A7%91%EC%9A%94%ED%95%98%EA%B2%8C+%EC%B3%94%EC%A0%81%ED%95%A9%EB%8B%88%EB%8B%A4.;%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98+%EC%95%88%EC%A0%95%EC%84%B1%EC%9D%84+%EC%BD%94%EB%93%9C%EB%A1%9C+%EC%A6%9D%EB%AA%85%ED%95%A9%EB%8B%88%EB%8B%A4." alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 ### 🛠️ Tech Stacks
 
