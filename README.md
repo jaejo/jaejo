@@ -1,17 +1,15 @@
-## 이재준
+## 이재준(JAE JOON, LEE)
 
 ## 현상의 원인을 집요하게 추적하며 시스템의 안정성을 증명하는 백엔드 개발자
 
----
+### 🛠️ 기술 스택(Tech Stacks)
 
-### 🛠️ Tech Stacks
-
-#### 💻 Programming Languages
+#### 💻 프로그래밍 언어(Programming Languages)
 <p>
   <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 </p>
 
-#### ⚡ Frameworks & Libraries
+#### ⚡ 프레임워크 & 라이브러리(Frameworks & Libraries)
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>&nbsp;&nbsp;
@@ -20,7 +18,7 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
 </p>
 
-#### 🗄️ Database & Server
+#### 🗄️ 데이터베이스 & 서버(Database & Server)
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>&nbsp;&nbsp;
@@ -31,7 +29,7 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
 
-#### 🚀 Others
+#### 🚀 그 외(Others)
 <p>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.dot.io&logoColor=white"/>&nbsp;&nbsp;
