@@ -43,8 +43,8 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인의_GitHub_ID&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaejoon0520@naver.com&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인의_GitHub_ID&layout=compact&theme=github_dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaejoon0520@naver.com&layout=compact&theme=github_dark" alt="Top Langs" />
 </p>
 
