@@ -42,5 +42,5 @@
 
 ### 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaejo&show_icons=true&theme=github_dark&count_private=true)](https://github.com/jaejo) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaejo&layout=compact&theme=github_dark)](https://github.com/jaejo)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jaejo&show_icons=true&theme=github_dark&count_private=true)](https://github.com/jaejo) [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaejo&layout=compact&theme=github_dark)](https://github.com/jaejo)
 
