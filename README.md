@@ -1,5 +1,12 @@
-## 이재준
-## 현상의 원인을 집요하게 추적하며 시스템의 안정성을 증명하는 백엔드 개발자
+# 👋 Hello, World!
+
+```java
+public class BackendDeveloper {
+    private final String name = "이재준";
+    private final String role = "Backend Engineer";
+    private final String philosophy = "현상의 원인을 집요하게 추적하고, 시스템의 안정성을 코드로 증명합니다.";
+}
+```
 
 ### 🛠️ Tech Stacks
 
